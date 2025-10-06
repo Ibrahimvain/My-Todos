@@ -1,0 +1,2 @@
+# Menjalankan 
+npm run start
